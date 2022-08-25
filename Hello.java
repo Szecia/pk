@@ -4,5 +4,6 @@ public class Hello {
         int i = 5;
         System.out.println("Hello 3 Gosia: "+i);
         System.out.println("Hello");
+        int y = 6;
     }
 }
